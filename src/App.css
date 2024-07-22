@@ -1,0 +1,10 @@
+.carusel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.carusel-In img{
+    height: 200px;
+
+}

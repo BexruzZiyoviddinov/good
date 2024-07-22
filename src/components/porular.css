@@ -1,0 +1,33 @@
+.whithOll {
+   width: 1000px;
+   margin: auto;
+   background-color: aqua;
+}
+.card-popular {
+   width: 500px;
+   display: grid;
+   grid-template-columns: auto auto auto ;
+   align-items: center;
+   justify-content: space-around;
+   background-color: aliceblue;
+}
+.dir {
+   width: 300px;
+   display: grid;
+   display: flex;
+   flex-wrap: wrap;
+
+}
+.dir span {
+   background-color: lightgray;
+   margin: 10px;
+   border-radius: 5px;
+   padding: 0px 10px;
+}
+.conteyner-popylar {
+   display: grid;
+   grid-template-columns: auto auto auto auto;
+   width: 1000px;
+   gap: 10px;
+   margin: auto;
+}
